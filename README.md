@@ -1,2 +1,4 @@
-# codegnan
-content-based and collaborative filtering recommendation systems for song recommendations.
+Music Recommendation System
+A unsupervised learning model which analyses playlists and gives recommendations. Dataset used is FMA.
+
+
